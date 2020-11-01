@@ -48,7 +48,7 @@ def sigma_par(dnu, nuObs, z):
 class WindowFunctions:
     def __init__(self):
         """
-        Container class to compute various quantities for low-z Galaxy as studied here --> https://arxiv.org/pdf/1201.4398.pdf
+        Container class to compute window functions due to resolution and volume effects. See for example https://arxiv.org/pdf/1907.10067.pdf
 
         """
 
